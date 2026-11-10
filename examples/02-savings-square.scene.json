@@ -1,0 +1,26 @@
+{
+  "width": 1000,
+  "height": 1000,
+  "detail": "S",
+  "paletteId": "peach",
+  "backgroundIndex": 0,
+  "scale": 0.84060984235613,
+  "objects": [
+    {
+      "id": "auto-cgsjbe",
+      "assetId": "wallet",
+      "x": 570,
+      "y": 490,
+      "rotation": 0,
+      "role": "main"
+    },
+    {
+      "id": "auto-1u2dozp",
+      "assetId": "coin",
+      "x": 310,
+      "y": 700,
+      "rotation": 0,
+      "role": "main"
+    }
+  ]
+}

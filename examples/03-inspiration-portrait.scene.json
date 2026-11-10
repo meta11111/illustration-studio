@@ -1,0 +1,34 @@
+{
+  "width": 900,
+  "height": 1200,
+  "detail": "L",
+  "paletteId": "turquoise",
+  "backgroundIndex": 0,
+  "scale": 0.5042382812836966,
+  "objects": [
+    {
+      "id": "auto-71wzoh",
+      "assetId": "pen",
+      "x": 675,
+      "y": 180,
+      "rotation": 4,
+      "role": "background"
+    },
+    {
+      "id": "auto-1q409zm",
+      "assetId": "lamp",
+      "x": 432,
+      "y": 504,
+      "rotation": 0,
+      "role": "main"
+    },
+    {
+      "id": "auto-1b8iptf",
+      "assetId": "flowers",
+      "x": 495,
+      "y": 864,
+      "rotation": -4,
+      "role": "main"
+    }
+  ]
+}

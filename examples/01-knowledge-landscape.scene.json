@@ -1,0 +1,42 @@
+{
+  "width": 1200,
+  "height": 630,
+  "detail": "L",
+  "paletteId": "violet",
+  "backgroundIndex": 0,
+  "scale": 0.43985491838365476,
+  "objects": [
+    {
+      "id": "auto-yzhu9z",
+      "assetId": "lamp",
+      "x": 804,
+      "y": 302.4,
+      "rotation": 0,
+      "role": "background"
+    },
+    {
+      "id": "auto-1g1szyk",
+      "assetId": "pen",
+      "x": 192,
+      "y": 441,
+      "rotation": 0,
+      "role": "background"
+    },
+    {
+      "id": "auto-1g1xk3n",
+      "assetId": "book",
+      "x": 432,
+      "y": 315,
+      "rotation": 0,
+      "role": "main"
+    },
+    {
+      "id": "auto-4bgtsc",
+      "assetId": "puzzle",
+      "x": 948,
+      "y": 157.5,
+      "rotation": 0,
+      "role": "main"
+    }
+  ]
+}

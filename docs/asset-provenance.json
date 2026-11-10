@@ -1,0 +1,1212 @@
+{
+  "sourceFileKey": "Vc5WqbTfcR32TaVNrmEAZm",
+  "method": "Exact raw primitive partition by original Figma spatial bounds. Original d/paint attributes preserved; only standalone root viewBox and dimensions added.",
+  "sheets": [
+    {
+      "file": "raw-svg/L-main.svg",
+      "sha256": "4b65430d2b7d7a0b948ce858a98cd62f18255bb6f51e59a90e4bffecbed1bc0c",
+      "pathCount": 776,
+      "origin": [
+        365.2724609375,
+        3467.37353515625
+      ],
+      "counts": {
+        "book": 54,
+        "phone": 155,
+        "puzzle": 57,
+        "coin": 136,
+        "headphones": 84,
+        "lamp": 27,
+        "flowers": 131,
+        "wallet": 86,
+        "folder": 22,
+        "pen": 24
+      }
+    },
+    {
+      "file": "raw-svg/L-background.svg",
+      "sha256": "e32429692bbf01ce7af1d4682a7e2dfeabce9dcf865c503c5efad94423b52563",
+      "pathCount": 776,
+      "origin": [
+        365.2724609375,
+        7491.5576171875
+      ],
+      "counts": {
+        "book": 54,
+        "phone": 155,
+        "puzzle": 57,
+        "coin": 136,
+        "headphones": 84,
+        "lamp": 27,
+        "flowers": 131,
+        "wallet": 86,
+        "folder": 22,
+        "pen": 24
+      }
+    },
+    {
+      "file": "raw-svg/S-main.svg",
+      "sha256": "82753369d5c09f5f855a12b557cddcee338c5922b6f146bfc7e4315f9ad87218",
+      "pathCount": 698,
+      "origin": [
+        261.270263671875,
+        2060.38916015625
+      ],
+      "counts": {
+        "book": 51,
+        "phone": 96,
+        "puzzle": 57,
+        "coin": 130,
+        "headphones": 79,
+        "lamp": 27,
+        "flowers": 131,
+        "wallet": 83,
+        "folder": 20,
+        "pen": 24
+      }
+    },
+    {
+      "file": "raw-svg/S-background.svg",
+      "sha256": "896e8597032bdc2b5ae6aee97d56c0b04261515b382a638d7830a66eb57e42a0",
+      "pathCount": 776,
+      "origin": [
+        261.270263671875,
+        5161.7958984375
+      ],
+      "counts": {
+        "book": 54,
+        "phone": 155,
+        "puzzle": 57,
+        "coin": 136,
+        "headphones": 84,
+        "lamp": 27,
+        "flowers": 131,
+        "wallet": 86,
+        "folder": 22,
+        "pen": 24
+      }
+    }
+  ],
+  "assets": [
+    {
+      "subjectId": "book",
+      "detailLevel": "L",
+      "role": "main",
+      "nodeId": "21:29965",
+      "sourceSheet": "raw-svg/L-main.svg",
+      "file": "assets/book-L-main.svg",
+      "sourcePrimitiveCount": 54,
+      "sha256": "672fa13a906dda63a8868d824fe5c427554f86c5b1881e49bca633386f845844",
+      "viewBox": [
+        26.351590534340872,
+        -0.02,
+        1445.9313137548268,
+        976.7043217023053
+      ],
+      "width": 1445.9313137548268,
+      "height": 976.7043217023053,
+      "sourceFigmaDimensions": [
+        1445.892578125,
+        976.664306640625
+      ],
+      "sourcePathBounds": [
+        26.37159053434087,
+        0.0,
+        1472.2629042891676,
+        976.6643217023053
+      ]
+    },
+    {
+      "subjectId": "phone",
+      "detailLevel": "L",
+      "role": "main",
+      "nodeId": "21:25472",
+      "sourceSheet": "raw-svg/L-main.svg",
+      "file": "assets/phone-L-main.svg",
+      "sourcePrimitiveCount": 155,
+      "sha256": "12f0c64c1d1cb93f3f8e102324e9c565ec60d0a2e7afc9905d46a80025e1c46a",
+      "viewBox": [
+        1673.287943143086,
+        251.24483621625635,
+        796.5702543847656,
+        461.7071637837437
+      ],
+      "width": 796.5702543847656,
+      "height": 461.7071637837437,
+      "sourceFigmaDimensions": [
+        796.5315551757812,
+        461.6672058105469
+      ],
+      "sourcePathBounds": [
+        1673.307943143086,
+        251.26483621625636,
+        2469.8381975278517,
+        712.932
+      ]
+    },
+    {
+      "subjectId": "puzzle",
+      "detailLevel": "L",
+      "role": "main",
+      "nodeId": "21:417",
+      "sourceSheet": "raw-svg/L-main.svg",
+      "file": "assets/puzzle-L-main.svg",
+      "sourcePrimitiveCount": 57,
+      "sha256": "3108237de897e6e1ec17e4650d670ba38e2a286189ebfa3766736f791f3df55f",
+      "viewBox": [
+        2734.9497909375755,
+        360.34679807090504,
+        544.2065071625993,
+        313.5745391412162
+      ],
+      "width": 544.2065071625993,
+      "height": 313.5745391412162,
+      "sourceFigmaDimensions": [
+        544.1632080078125,
+        313.5343322753906
+      ],
+      "sourcePathBounds": [
+        2734.9697909375755,
+        360.366798070905,
+        3279.136298100175,
+        673.9013372121212
+      ]
+    },
+    {
+      "subjectId": "coin",
+      "detailLevel": "L",
+      "role": "main",
+      "nodeId": "24:2207",
+      "sourceSheet": "raw-svg/L-main.svg",
+      "file": "assets/coin-L-main.svg",
+      "sourcePrimitiveCount": 136,
+      "sha256": "65d30fd06d259fd0fd9f7ee002f91a99da5c59a67fa1b264eb122efaccee8f13",
+      "viewBox": [
+        3640.011452330767,
+        478.4247828118373,
+        286.71610852648837,
+        188.5412171881627
+      ],
+      "width": 286.71610852648837,
+      "height": 188.5412171881627,
+      "sourceFigmaDimensions": [
+        286.6768798828125,
+        188.50100708007812
+      ],
+      "sourcePathBounds": [
+        3640.031452330767,
+        478.4447828118373,
+        3926.7075608572554,
+        666.946
+      ]
+    },
+    {
+      "subjectId": "headphones",
+      "detailLevel": "L",
+      "role": "main",
+      "nodeId": "23:122",
+      "sourceSheet": "raw-svg/L-main.svg",
+      "file": "assets/headphones-L-main.svg",
+      "sourcePrimitiveCount": 84,
+      "sha256": "fcc18a9bc9f9462e04204f50a28f9bc7a8666cd1124cde0f1c8096ae2afc02a9",
+      "viewBox": [
+        104.73059764608853,
+        1335.69,
+        888.1897834572172,
+        691.5837031721921
+      ],
+      "width": 888.1897834572172,
+      "height": 691.5837031721921,
+      "sourceFigmaDimensions": [
+        888.14990234375,
+        691.54150390625
+      ],
+      "sourcePathBounds": [
+        104.75059764608852,
+        1335.71,
+        992.9003811033058,
+        2027.2537031721922
+      ]
+    },
+    {
+      "subjectId": "lamp",
+      "detailLevel": "L",
+      "role": "main",
+      "nodeId": "23:121",
+      "sourceSheet": "raw-svg/L-main.svg",
+      "file": "assets/lamp-L-main.svg",
+      "sourcePrimitiveCount": 27,
+      "sha256": "7f1115f20c2a9092082c559845d4399ae1b3a84349609119350446061334380d",
+      "viewBox": [
+        1456.9371366142152,
+        971.3622977280687,
+        945.9813300680919,
+        1129.0247528184723
+      ],
+      "width": 945.9813300680919,
+      "height": 1129.0247528184723,
+      "sourceFigmaDimensions": [
+        945.9432373046875,
+        1128.9852294921875
+      ],
+      "sourcePathBounds": [
+        1456.9571366142152,
+        971.3822977280687,
+        2402.898466682307,
+        2100.367050546541
+      ]
+    },
+    {
+      "subjectId": "flowers",
+      "detailLevel": "L",
+      "role": "main",
+      "nodeId": "28:11628",
+      "sourceSheet": "raw-svg/L-main.svg",
+      "file": "assets/flowers-L-main.svg",
+      "sourcePrimitiveCount": 131,
+      "sha256": "a4a59006f6af07ab8f4260df3b0254f0d1f11341403ea13260d27a574fa81f14",
+      "viewBox": [
+        2670.7250361499423,
+        1245.3226480167662,
+        590.6177520213755,
+        747.14708089483
+      ],
+      "width": 590.6177520213755,
+      "height": 747.14708089483,
+      "sourceFigmaDimensions": [
+        590.5732421875,
+        747.1065063476562
+      ],
+      "sourcePathBounds": [
+        2670.7450361499423,
+        1245.3426480167661,
+        3261.322788171318,
+        1992.4497289115961
+      ]
+    },
+    {
+      "subjectId": "wallet",
+      "detailLevel": "L",
+      "role": "main",
+      "nodeId": "23:211",
+      "sourceSheet": "raw-svg/L-main.svg",
+      "file": "assets/wallet-L-main.svg",
+      "sourcePrimitiveCount": 86,
+      "sha256": "884f14c18f2aec09acce3885f106d9c20f76e0a56ac19d89b453551867f0c647",
+      "viewBox": [
+        3502.9684630365455,
+        1627.7160993975904,
+        630.4587276579396,
+        396.34815186992046
+      ],
+      "width": 630.4587276579396,
+      "height": 396.34815186992046,
+      "sourceFigmaDimensions": [
+        630.41552734375,
+        396.309814453125
+      ],
+      "sourcePathBounds": [
+        3502.9884630365455,
+        1627.7360993975904,
+        4133.407190694485,
+        2024.0442512675108
+      ]
+    },
+    {
+      "subjectId": "folder",
+      "detailLevel": "L",
+      "role": "main",
+      "nodeId": "24:1899",
+      "sourceSheet": "raw-svg/L-main.svg",
+      "file": "assets/folder-L-main.svg",
+      "sourcePrimitiveCount": 22,
+      "sha256": "6e8188466ebef068f7e619f88949ac71191ad5b1b6912ff6deeb396916c28188",
+      "viewBox": [
+        -0.019999685780606107,
+        2452.780399222055,
+        1240.658409963694,
+        658.6308735641792
+      ],
+      "width": 1240.658409963694,
+      "height": 658.6308735641792,
+      "sourceFigmaDimensions": [
+        1240.61865234375,
+        658.5882568359375
+      ],
+      "sourcePathBounds": [
+        3.142193938932003e-07,
+        2452.800399222055,
+        1240.6184102779134,
+        3111.3912727862344
+      ]
+    },
+    {
+      "subjectId": "pen",
+      "detailLevel": "L",
+      "role": "main",
+      "nodeId": "24:1734",
+      "sourceSheet": "raw-svg/L-main.svg",
+      "file": "assets/pen-L-main.svg",
+      "sourcePrimitiveCount": 24,
+      "sha256": "50266b7a39c59232c43053a86ef4cb8d62718aec0791b2601610c856b2ed80a5",
+      "viewBox": [
+        1430.5053063850096,
+        2660.2363330419716,
+        508.46799796533355,
+        285.44331990462206
+      ],
+      "width": 508.46799796533355,
+      "height": 285.44331990462206,
+      "sourceFigmaDimensions": [
+        508.42822265625,
+        285.4002380371094
+      ],
+      "sourcePathBounds": [
+        1430.5253063850096,
+        2660.2563330419716,
+        1938.9533043503432,
+        2945.6596529465937
+      ]
+    },
+    {
+      "subjectId": "book",
+      "detailLevel": "L",
+      "role": "background",
+      "nodeId": "24:6273",
+      "sourceSheet": "raw-svg/L-background.svg",
+      "file": "assets/book-L-background.svg",
+      "sourcePrimitiveCount": 54,
+      "sha256": "b121f88b81199d886dae3c9bf4dd5923ac70e170292ad84a5d8a73ee733d1124",
+      "viewBox": [
+        26.351590534340872,
+        -0.02,
+        1445.9313137548268,
+        976.7043217023053
+      ],
+      "width": 1445.9313137548268,
+      "height": 976.7043217023053,
+      "sourceFigmaDimensions": [
+        1445.892578125,
+        976.664306640625
+      ],
+      "sourcePathBounds": [
+        26.37159053434087,
+        0.0,
+        1472.2629042891676,
+        976.6643217023053
+      ]
+    },
+    {
+      "subjectId": "phone",
+      "detailLevel": "L",
+      "role": "background",
+      "nodeId": "24:6327",
+      "sourceSheet": "raw-svg/L-background.svg",
+      "file": "assets/phone-L-background.svg",
+      "sourcePrimitiveCount": 155,
+      "sha256": "f031c7fb7d7f253a5d4d1ed585d4a0d605d19c8684d7aedcf46535dc6ead07ec",
+      "viewBox": [
+        1673.287943143086,
+        251.24483621625635,
+        796.5702543847656,
+        461.7071637837437
+      ],
+      "width": 796.5702543847656,
+      "height": 461.7071637837437,
+      "sourceFigmaDimensions": [
+        796.5315551757812,
+        461.6672058105469
+      ],
+      "sourcePathBounds": [
+        1673.307943143086,
+        251.26483621625636,
+        2469.8381975278517,
+        712.932
+      ]
+    },
+    {
+      "subjectId": "puzzle",
+      "detailLevel": "L",
+      "role": "background",
+      "nodeId": "24:6214",
+      "sourceSheet": "raw-svg/L-background.svg",
+      "file": "assets/puzzle-L-background.svg",
+      "sourcePrimitiveCount": 57,
+      "sha256": "86fedaf01420ba6da6ec27581f7d3d18907aba17f71e5c287d01889281c6ea5a",
+      "viewBox": [
+        2734.9497909375755,
+        360.346798151112,
+        544.2065071625993,
+        313.5745390610092
+      ],
+      "width": 544.2065071625993,
+      "height": 313.5745390610092,
+      "sourceFigmaDimensions": [
+        544.1632080078125,
+        313.5343322753906
+      ],
+      "sourcePathBounds": [
+        2734.9697909375755,
+        360.366798151112,
+        3279.136298100175,
+        673.9013372121212
+      ]
+    },
+    {
+      "subjectId": "coin",
+      "detailLevel": "L",
+      "role": "background",
+      "nodeId": "24:6795",
+      "sourceSheet": "raw-svg/L-background.svg",
+      "file": "assets/coin-L-background.svg",
+      "sourcePrimitiveCount": 136,
+      "sha256": "6da45094c4c7b13d5dd1c6a78623982223e5259cd028f2e0e7e074f6227f6d77",
+      "viewBox": [
+        3640.011452330767,
+        478.4257601034493,
+        286.71610852648837,
+        188.5402398965507
+      ],
+      "width": 286.71610852648837,
+      "height": 188.5402398965507,
+      "sourceFigmaDimensions": [
+        286.6768798828125,
+        188.50100708007812
+      ],
+      "sourcePathBounds": [
+        3640.031452330767,
+        478.4457601034493,
+        3926.7075608572554,
+        666.946
+      ]
+    },
+    {
+      "subjectId": "headphones",
+      "detailLevel": "L",
+      "role": "background",
+      "nodeId": "24:6484",
+      "sourceSheet": "raw-svg/L-background.svg",
+      "file": "assets/headphones-L-background.svg",
+      "sourcePrimitiveCount": 84,
+      "sha256": "713bc89a3592805e4c6ea6833bb4ade05caebd51f5f0ea07a991cce7cdc3380a",
+      "viewBox": [
+        104.73059764608853,
+        1335.69,
+        888.1897834572172,
+        691.5837031721921
+      ],
+      "width": 888.1897834572172,
+      "height": 691.5837031721921,
+      "sourceFigmaDimensions": [
+        888.14990234375,
+        691.54150390625
+      ],
+      "sourcePathBounds": [
+        104.75059764608852,
+        1335.71,
+        992.9003811033058,
+        2027.2537031721922
+      ]
+    },
+    {
+      "subjectId": "lamp",
+      "detailLevel": "L",
+      "role": "background",
+      "nodeId": "24:6569",
+      "sourceSheet": "raw-svg/L-background.svg",
+      "file": "assets/lamp-L-background.svg",
+      "sourcePrimitiveCount": 27,
+      "sha256": "71a9faa4f68a227c2fbd68b05dc53afc0edd092f25b49e84d17ac1df1bf95a6a",
+      "viewBox": [
+        1456.9371366142152,
+        971.3617976662539,
+        945.9813300680919,
+        1129.025252880287
+      ],
+      "width": 945.9813300680919,
+      "height": 1129.025252880287,
+      "sourceFigmaDimensions": [
+        945.9432373046875,
+        1128.9852294921875
+      ],
+      "sourcePathBounds": [
+        1456.9571366142152,
+        971.3817976662539,
+        2402.898466682307,
+        2100.367050546541
+      ]
+    },
+    {
+      "subjectId": "flowers",
+      "detailLevel": "L",
+      "role": "background",
+      "nodeId": "30:11902",
+      "sourceSheet": "raw-svg/L-background.svg",
+      "file": "assets/flowers-L-background.svg",
+      "sourcePrimitiveCount": 131,
+      "sha256": "8c2dab80efb842437fbfd4234d1508a49b92014e4394ef08350ad1941716b855",
+      "viewBox": [
+        2695.6243917554348,
+        1306.022648016766,
+        590.6083964158829,
+        747.1463423417433
+      ],
+      "width": 590.6083964158829,
+      "height": 747.1463423417433,
+      "sourceFigmaDimensions": [
+        590.5732421875,
+        747.1065063476562
+      ],
+      "sourcePathBounds": [
+        2695.6443917554348,
+        1306.042648016766,
+        3286.2127881713177,
+        2053.1489903585093
+      ]
+    },
+    {
+      "subjectId": "wallet",
+      "detailLevel": "L",
+      "role": "background",
+      "nodeId": "24:6660",
+      "sourceSheet": "raw-svg/L-background.svg",
+      "file": "assets/wallet-L-background.svg",
+      "sourcePrimitiveCount": 86,
+      "sha256": "cebad1bbc9a90840f53709d28e8ab32e5de36efa8cca658d076e255043059d85",
+      "viewBox": [
+        3502.9684630365455,
+        1627.7160993975904,
+        630.4587276579396,
+        396.34815186992046
+      ],
+      "width": 630.4587276579396,
+      "height": 396.34815186992046,
+      "sourceFigmaDimensions": [
+        630.41552734375,
+        396.309814453125
+      ],
+      "sourcePathBounds": [
+        3502.9884630365455,
+        1627.7360993975904,
+        4133.407190694485,
+        2024.0442512675108
+      ]
+    },
+    {
+      "subjectId": "folder",
+      "detailLevel": "L",
+      "role": "background",
+      "nodeId": "24:6772",
+      "sourceSheet": "raw-svg/L-background.svg",
+      "file": "assets/folder-L-background.svg",
+      "sourcePrimitiveCount": 22,
+      "sha256": "1dc82a3dcc00f6812a19af656e70332551af9401326a0571bb55ff46f8c4a601",
+      "viewBox": [
+        -0.019999685780606107,
+        2452.780399222055,
+        1240.658409963694,
+        658.6308735641792
+      ],
+      "width": 1240.658409963694,
+      "height": 658.6308735641792,
+      "sourceFigmaDimensions": [
+        1240.61865234375,
+        658.5882568359375
+      ],
+      "sourcePathBounds": [
+        3.142193938932003e-07,
+        2452.800399222055,
+        1240.6184102779134,
+        3111.3912727862344
+      ]
+    },
+    {
+      "subjectId": "pen",
+      "detailLevel": "L",
+      "role": "background",
+      "nodeId": "24:6747",
+      "sourceSheet": "raw-svg/L-background.svg",
+      "file": "assets/pen-L-background.svg",
+      "sourcePrimitiveCount": 24,
+      "sha256": "d81d550bbbad8075f20bdcfaced9110829afddcb7dccef9c51c5a78745ffaa15",
+      "viewBox": [
+        1430.5053063850096,
+        2660.2363330419716,
+        508.46799796533355,
+        285.44331990462206
+      ],
+      "width": 508.46799796533355,
+      "height": 285.44331990462206,
+      "sourceFigmaDimensions": [
+        508.42822265625,
+        285.4002380371094
+      ],
+      "sourcePathBounds": [
+        1430.5253063850096,
+        2660.2563330419716,
+        1938.9533043503432,
+        2945.6596529465937
+      ]
+    },
+    {
+      "subjectId": "book",
+      "detailLevel": "S",
+      "role": "main",
+      "nodeId": "24:3810",
+      "sourceSheet": "raw-svg/S-main.svg",
+      "file": "assets/book-S-main.svg",
+      "sourcePrimitiveCount": 51,
+      "sha256": "83b7e7aa6395114ccaa912c87ec01e53b08c4e3861fbcc242eff7c47111f24c1",
+      "viewBox": [
+        7.098410524851111,
+        -0.02,
+        722.9864749687305,
+        488.37192417862826
+      ],
+      "width": 722.9864749687305,
+      "height": 488.37192417862826,
+      "sourceFigmaDimensions": [
+        722.9462890625,
+        488.3321228027344
+      ],
+      "sourcePathBounds": [
+        7.118410524851111,
+        0.0,
+        730.0648854935816,
+        488.3319241786283
+      ]
+    },
+    {
+      "subjectId": "phone",
+      "detailLevel": "S",
+      "role": "main",
+      "nodeId": "24:4746",
+      "sourceSheet": "raw-svg/S-main.svg",
+      "file": "assets/phone-S-main.svg",
+      "sourcePrimitiveCount": 96,
+      "sha256": "288ad0069c6a75a993123131fc3e7e9eb05f9b554e3ba329c888a08aa3711860",
+      "viewBox": [
+        1032.9422010923167,
+        192.7553360864726,
+        398.3018976716096,
+        230.87366391352737
+      ],
+      "width": 398.3018976716096,
+      "height": 230.87366391352737,
+      "sourceFigmaDimensions": [
+        398.2657470703125,
+        230.83363342285156
+      ],
+      "sourcePathBounds": [
+        1032.9622010923167,
+        192.7753360864726,
+        1431.2240987639263,
+        423.609
+      ]
+    },
+    {
+      "subjectId": "puzzle",
+      "detailLevel": "S",
+      "role": "main",
+      "nodeId": "24:4903",
+      "sourceSheet": "raw-svg/S-main.svg",
+      "file": "assets/puzzle-S-main.svg",
+      "sourcePrimitiveCount": 57,
+      "sha256": "6f6647c14f616fc56c20efe82bc622e18e9a750eed89884c06155358d99fd8bb",
+      "viewBox": [
+        1664.0487029344804,
+        223.70689903538278,
+        272.12204146196996,
+        156.80699182727255
+      ],
+      "width": 272.12204146196996,
+      "height": 156.80699182727255,
+      "sourceFigmaDimensions": [
+        272.08160400390625,
+        156.7671661376953
+      ],
+      "sourcePathBounds": [
+        1664.0687029344804,
+        223.7268990353828,
+        1936.1507443964504,
+        380.49389086265535
+      ]
+    },
+    {
+      "subjectId": "coin",
+      "detailLevel": "S",
+      "role": "main",
+      "nodeId": "24:5345",
+      "sourceSheet": "raw-svg/S-main.svg",
+      "file": "assets/coin-S-main.svg",
+      "sourcePrimitiveCount": 130,
+      "sha256": "7ff66594903d4a6e4759d931d58c8967af91322719853ad93f74b9a5639f27c2",
+      "viewBox": [
+        2236.936300529343,
+        279.39096413976944,
+        152.43530524701964,
+        100.24203586023054
+      ],
+      "width": 152.43530524701964,
+      "height": 100.24203586023054,
+      "sourceFigmaDimensions": [
+        152.3905029296875,
+        100.20225524902344
+      ],
+      "sourcePathBounds": [
+        2236.956300529343,
+        279.4109641397694,
+        2389.3516057763627,
+        379.613
+      ]
+    },
+    {
+      "subjectId": "headphones",
+      "detailLevel": "S",
+      "role": "main",
+      "nodeId": "24:5089",
+      "sourceSheet": "raw-svg/S-main.svg",
+      "file": "assets/headphones-S-main.svg",
+      "sourcePrimitiveCount": 79,
+      "sha256": "bad95c66043ce8deee8228b1ec81f390e37253b2cec799434736c2438c745e84",
+      "viewBox": [
+        113.56816916839617,
+        875.572,
+        444.1152782224517,
+        345.80766003634506
+      ],
+      "width": 444.1152782224517,
+      "height": 345.80766003634506,
+      "sourceFigmaDimensions": [
+        444.074951171875,
+        345.770751953125
+      ],
+      "sourcePathBounds": [
+        113.58816916839616,
+        875.592,
+        557.6634473908479,
+        1221.359660036345
+      ]
+    },
+    {
+      "subjectId": "lamp",
+      "detailLevel": "S",
+      "role": "main",
+      "nodeId": "24:5485",
+      "sourceSheet": "raw-svg/S-main.svg",
+      "file": "assets/lamp-S-main.svg",
+      "sourcePrimitiveCount": 27,
+      "sha256": "24b408460e3d1756937c3a7bb6b200573bb267babb9c6ab771c7ca04561617d7",
+      "viewBox": [
+        930.7120509528527,
+        757.8573988949404,
+        473.014287135039,
+        564.5322025681896
+      ],
+      "width": 473.014287135039,
+      "height": 564.5322025681896,
+      "sourceFigmaDimensions": [
+        472.9715881347656,
+        564.4925537109375
+      ],
+      "sourcePathBounds": [
+        930.7320509528527,
+        757.8773988949404,
+        1403.7063380878917,
+        1322.36960146313
+      ]
+    },
+    {
+      "subjectId": "flowers",
+      "detailLevel": "S",
+      "role": "main",
+      "nodeId": "28:11629",
+      "sourceSheet": "raw-svg/S-main.svg",
+      "file": "assets/flowers-S-main.svg",
+      "sourcePrimitiveCount": 131,
+      "sha256": "2f289f406b8d12358fddac585418b25150ac08ff5ba941f08d2e2ea0815fe871",
+      "viewBox": [
+        1657.618891363688,
+        888.1755109197624,
+        323.308648257693,
+        408.98500058756247
+      ],
+      "width": 323.308648257693,
+      "height": 408.98500058756247,
+      "sourceFigmaDimensions": [
+        323.2647399902344,
+        408.94677734375
+      ],
+      "sourcePathBounds": [
+        1657.638891363688,
+        888.1955109197623,
+        1980.907539621381,
+        1297.1405115073248
+      ]
+    },
+    {
+      "subjectId": "wallet",
+      "detailLevel": "S",
+      "role": "main",
+      "nodeId": "24:4594",
+      "sourceSheet": "raw-svg/S-main.svg",
+      "file": "assets/wallet-S-main.svg",
+      "sourcePrimitiveCount": 83,
+      "sha256": "cab1cfcd981e221ce314176633cec8ca05ed03d1983e479f2db9e859c9d72d6b",
+      "viewBox": [
+        2138.20869710804,
+        1127.2355563401409,
+        315.24732003760073,
+        198.1943534641914
+      ],
+      "width": 315.24732003760073,
+      "height": 198.1943534641914,
+      "sourceFigmaDimensions": [
+        315.207763671875,
+        198.1549835205078
+      ],
+      "sourcePathBounds": [
+        2138.22869710804,
+        1127.2555563401409,
+        2453.4360171456406,
+        1325.4099098043323
+      ]
+    },
+    {
+      "subjectId": "folder",
+      "detailLevel": "S",
+      "role": "main",
+      "nodeId": "24:4430",
+      "sourceSheet": "raw-svg/S-main.svg",
+      "file": "assets/folder-S-main.svg",
+      "sourcePrimitiveCount": 20,
+      "sha256": "b940f89e23de5ecad66de63509ff70f6939443eb6104c817d364a31ea4abea52",
+      "viewBox": [
+        -0.019999885612692402,
+        1681.0827684513615,
+        620.3490774240523,
+        329.3334227406583
+      ],
+      "width": 620.3490774240523,
+      "height": 329.3334227406583,
+      "sourceFigmaDimensions": [
+        620.3094482421875,
+        329.29412841796875
+      ],
+      "sourcePathBounds": [
+        1.1438730759816274e-07,
+        1681.1027684513615,
+        620.3090775384396,
+        2010.3961911920198
+      ]
+    },
+    {
+      "subjectId": "pen",
+      "detailLevel": "S",
+      "role": "main",
+      "nodeId": "24:4287",
+      "sourceSheet": "raw-svg/S-main.svg",
+      "file": "assets/pen-S-main.svg",
+      "sourcePrimitiveCount": 24,
+      "sha256": "5ce64b52ed10fe4d680095ccc076a5bb54f053eb546c50f5326fc78473137d8c",
+      "viewBox": [
+        1036.7678494843644,
+        1797.126056081565,
+        254.2488155955648,
+        142.74377039173214
+      ],
+      "width": 254.2488155955648,
+      "height": 142.74377039173214,
+      "sourceFigmaDimensions": [
+        254.214111328125,
+        142.7001190185547
+      ],
+      "sourcePathBounds": [
+        1036.7878494843644,
+        1797.146056081565,
+        1290.9966650799292,
+        1939.849826473297
+      ]
+    },
+    {
+      "subjectId": "book",
+      "detailLevel": "S",
+      "role": "background",
+      "nodeId": "24:6934",
+      "sourceSheet": "raw-svg/S-background.svg",
+      "file": "assets/book-S-background.svg",
+      "sourcePrimitiveCount": 54,
+      "sha256": "203819f9d444a92d9fc568326972487e95ead62a163e45755a2ef3f9e7834efd",
+      "viewBox": [
+        7.098410524851111,
+        -0.02,
+        722.9864749687305,
+        488.3724916575166
+      ],
+      "width": 722.9864749687305,
+      "height": 488.3724916575166,
+      "sourceFigmaDimensions": [
+        722.9462890625,
+        488.3321228027344
+      ],
+      "sourcePathBounds": [
+        7.118410524851111,
+        0.0,
+        730.0648854935816,
+        488.33249165751664
+      ]
+    },
+    {
+      "subjectId": "phone",
+      "detailLevel": "S",
+      "role": "background",
+      "nodeId": "24:6990",
+      "sourceSheet": "raw-svg/S-background.svg",
+      "file": "assets/phone-S-background.svg",
+      "sourcePrimitiveCount": 155,
+      "sha256": "599c5d4ab5f30dd1c3698fd0596a8527fd08e02a029af871fdb2f4bccffd8ade",
+      "viewBox": [
+        1032.9422010923167,
+        192.75599969149718,
+        398.3018976716096,
+        230.87400030850281
+      ],
+      "width": 398.3018976716096,
+      "height": 230.87400030850281,
+      "sourceFigmaDimensions": [
+        398.2657470703125,
+        230.83363342285156
+      ],
+      "sourcePathBounds": [
+        1032.9622010923167,
+        192.7759996914972,
+        1431.2240987639263,
+        423.61
+      ]
+    },
+    {
+      "subjectId": "puzzle",
+      "detailLevel": "S",
+      "role": "background",
+      "nodeId": "24:7147",
+      "sourceSheet": "raw-svg/S-background.svg",
+      "file": "assets/puzzle-S-background.svg",
+      "sourcePrimitiveCount": 57,
+      "sha256": "ab95464e6453bf4c79721aa6dfe36e2578546d957ccb17a4670005efdf220c6f",
+      "viewBox": [
+        1664.0487029344804,
+        223.70689903538278,
+        272.12204146196996,
+        156.80699182727255
+      ],
+      "width": 272.12204146196996,
+      "height": 156.80699182727255,
+      "sourceFigmaDimensions": [
+        272.08160400390625,
+        156.7671661376953
+      ],
+      "sourcePathBounds": [
+        1664.0687029344804,
+        223.7268990353828,
+        1936.1507443964504,
+        380.49389086265535
+      ]
+    },
+    {
+      "subjectId": "coin",
+      "detailLevel": "S",
+      "role": "background",
+      "nodeId": "24:7205",
+      "sourceSheet": "raw-svg/S-background.svg",
+      "file": "assets/coin-S-background.svg",
+      "sourcePrimitiveCount": 136,
+      "sha256": "85febab8682dd11ef20f7996541b10eb8eae6c96c6a1a511f2680bbbc32b9509",
+      "viewBox": [
+        2236.938881758226,
+        279.3911598297106,
+        152.43272401813647,
+        100.24184017028938
+      ],
+      "width": 152.43272401813647,
+      "height": 100.24184017028938,
+      "sourceFigmaDimensions": [
+        152.3905029296875,
+        100.20225524902344
+      ],
+      "sourcePathBounds": [
+        2236.958881758226,
+        279.4111598297106,
+        2389.3516057763627,
+        379.613
+      ]
+    },
+    {
+      "subjectId": "headphones",
+      "detailLevel": "S",
+      "role": "background",
+      "nodeId": "24:7344",
+      "sourceSheet": "raw-svg/S-background.svg",
+      "file": "assets/headphones-S-background.svg",
+      "sourcePrimitiveCount": 84,
+      "sha256": "6f52fd1dc313307824cce4988aa4bae985fb5b4d9fc0794cf1358816dcf90700",
+      "viewBox": [
+        113.56816916839617,
+        875.572,
+        444.1152782224517,
+        345.80766003634506
+      ],
+      "width": 444.1152782224517,
+      "height": 345.80766003634506,
+      "sourceFigmaDimensions": [
+        444.074951171875,
+        345.770751953125
+      ],
+      "sourcePathBounds": [
+        113.58816916839616,
+        875.592,
+        557.6634473908479,
+        1221.359660036345
+      ]
+    },
+    {
+      "subjectId": "lamp",
+      "detailLevel": "S",
+      "role": "background",
+      "nodeId": "24:7429",
+      "sourceSheet": "raw-svg/S-background.svg",
+      "file": "assets/lamp-S-background.svg",
+      "sourcePrimitiveCount": 27,
+      "sha256": "160847dfbe7ed8a40d5bc58f37dde79ef6f3b63e3d83bae5ca66b608fd757336",
+      "viewBox": [
+        930.7120509528527,
+        757.8573988949404,
+        473.014287135039,
+        564.5322025681896
+      ],
+      "width": 473.014287135039,
+      "height": 564.5322025681896,
+      "sourceFigmaDimensions": [
+        472.9715881347656,
+        564.4925537109375
+      ],
+      "sourcePathBounds": [
+        930.7320509528527,
+        757.8773988949404,
+        1403.7063380878917,
+        1322.36960146313
+      ]
+    },
+    {
+      "subjectId": "flowers",
+      "detailLevel": "S",
+      "role": "background",
+      "nodeId": "28:11766",
+      "sourceSheet": "raw-svg/S-background.svg",
+      "file": "assets/flowers-S-background.svg",
+      "sourcePrimitiveCount": 131,
+      "sha256": "66c37d96100e2b09de869064910879978ef5c5a7f7690d7d59052881b278112f",
+      "viewBox": [
+        1629.978891363688,
+        890.1635251571777,
+        323.30780351959424,
+        408.98698635014694
+      ],
+      "width": 323.30780351959424,
+      "height": 408.98698635014694,
+      "sourceFigmaDimensions": [
+        323.2647399902344,
+        408.94677734375
+      ],
+      "sourcePathBounds": [
+        1629.998891363688,
+        890.1835251571777,
+        1953.2666948832823,
+        1299.1305115073246
+      ]
+    },
+    {
+      "subjectId": "wallet",
+      "detailLevel": "S",
+      "role": "background",
+      "nodeId": "24:7568",
+      "sourceSheet": "raw-svg/S-background.svg",
+      "file": "assets/wallet-S-background.svg",
+      "sourcePrimitiveCount": 86,
+      "sha256": "578a774c0214ee44d3116d0085d6ec496dcb2e7e2b844eb963eb1a5b68eab5c7",
+      "viewBox": [
+        2138.20869710804,
+        1127.2355563401409,
+        315.24732003760073,
+        198.1943534641914
+      ],
+      "width": 315.24732003760073,
+      "height": 198.1943534641914,
+      "sourceFigmaDimensions": [
+        315.207763671875,
+        198.1549835205078
+      ],
+      "sourcePathBounds": [
+        2138.22869710804,
+        1127.2555563401409,
+        2453.4360171456406,
+        1325.4099098043323
+      ]
+    },
+    {
+      "subjectId": "folder",
+      "detailLevel": "S",
+      "role": "background",
+      "nodeId": "24:7520",
+      "sourceSheet": "raw-svg/S-background.svg",
+      "file": "assets/folder-S-background.svg",
+      "sourcePrimitiveCount": 22,
+      "sha256": "3a04378f96e4ca3eb24f5403a192b1e31d89ade77115757e4cfb42d1b6ea3cb5",
+      "viewBox": [
+        -0.019999885612692402,
+        1681.0827684513615,
+        620.3490774240523,
+        329.3334227406583
+      ],
+      "width": 620.3490774240523,
+      "height": 329.3334227406583,
+      "sourceFigmaDimensions": [
+        620.3094482421875,
+        329.29412841796875
+      ],
+      "sourcePathBounds": [
+        1.1438730759816274e-07,
+        1681.1027684513615,
+        620.3090775384396,
+        2010.3961911920198
+      ]
+    },
+    {
+      "subjectId": "pen",
+      "detailLevel": "S",
+      "role": "background",
+      "nodeId": "24:7543",
+      "sourceSheet": "raw-svg/S-background.svg",
+      "file": "assets/pen-S-background.svg",
+      "sourcePrimitiveCount": 24,
+      "sha256": "0c9b7556c09ecd241f4146d66b8f42fc36a64c647dc11643dd52813b729a15cc",
+      "viewBox": [
+        1036.7678494843644,
+        1797.126056081565,
+        254.2488155955648,
+        142.74377039173214
+      ],
+      "width": 254.2488155955648,
+      "height": 142.74377039173214,
+      "sourceFigmaDimensions": [
+        254.214111328125,
+        142.7001190185547
+      ],
+      "sourcePathBounds": [
+        1036.7878494843644,
+        1797.146056081565,
+        1290.9966650799292,
+        1939.849826473297
+      ]
+    }
+  ]
+}

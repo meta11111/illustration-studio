@@ -1,0 +1,131 @@
+[
+  {
+    "file": "01-knowledge-landscape.svg",
+    "scene": "01-knowledge-landscape.scene.json",
+    "title": "Собрать знания воедино",
+    "prompt": "Собрать знания воедино",
+    "mode": "metaphor",
+    "engine": "local",
+    "width": 1200,
+    "height": 630,
+    "detail": "L",
+    "paletteId": "violet",
+    "paletteName": "Сиреневая",
+    "objects": 4,
+    "sourcePathsVerified": 162,
+    "svgSha256": "36cb10d44e0ec16ecfe506a4e5ea00d053c45cd42ad6af8033564ec485d91d44",
+    "sourceAssets": [
+      {
+        "assetId": "lamp",
+        "name": "Лампа",
+        "role": "background",
+        "path": "/assets/lamp-L-background.svg",
+        "sha256": "71a9faa4f68a227c2fbd68b05dc53afc0edd092f25b49e84d17ac1df1bf95a6a"
+      },
+      {
+        "assetId": "pen",
+        "name": "Ручка",
+        "role": "background",
+        "path": "/assets/pen-L-background.svg",
+        "sha256": "d81d550bbbad8075f20bdcfaced9110829afddcb7dccef9c51c5a78745ffaa15"
+      },
+      {
+        "assetId": "book",
+        "name": "Книга",
+        "role": "main",
+        "path": "/assets/book-L-main.svg",
+        "sha256": "672fa13a906dda63a8868d824fe5c427554f86c5b1881e49bca633386f845844"
+      },
+      {
+        "assetId": "puzzle",
+        "name": "Пазлы",
+        "role": "main",
+        "path": "/assets/puzzle-L-main.svg",
+        "sha256": "3108237de897e6e1ec17e4650d670ba38e2a286189ebfa3766736f791f3df55f"
+      }
+    ],
+    "explanation": "Тема «обучение и знания / объединение частей». Подобраны: Книга, Пазлы, Ручка, Лампа. Книга — объединение частей; Пазлы — объединение частей; Ручка — обучение и знания; Лампа — обучение и знания.",
+    "warnings": [
+      "Локальный смысловой словарь: подбор ограничен темами и предметами исходной библиотеки."
+    ]
+  },
+  {
+    "file": "02-savings-square.svg",
+    "scene": "02-savings-square.scene.json",
+    "title": "Как сохранить сбережения",
+    "prompt": "Как сохранить сбережения",
+    "mode": "metaphor",
+    "engine": "local",
+    "width": 1000,
+    "height": 1000,
+    "detail": "S",
+    "paletteId": "peach",
+    "paletteName": "Персиковая",
+    "objects": 2,
+    "sourcePathsVerified": 213,
+    "svgSha256": "9110969bff323fb17c607268132b38c63ee7bb59e5877a9171463d42b5d4e8b6",
+    "sourceAssets": [
+      {
+        "assetId": "wallet",
+        "name": "Кошелёк",
+        "role": "main",
+        "path": "/assets/wallet-S-main.svg",
+        "sha256": "cab1cfcd981e221ce314176633cec8ca05ed03d1983e479f2db9e859c9d72d6b"
+      },
+      {
+        "assetId": "coin",
+        "name": "Монета",
+        "role": "main",
+        "path": "/assets/coin-S-main.svg",
+        "sha256": "7ff66594903d4a6e4759d931d58c8967af91322719853ad93f74b9a5639f27c2"
+      }
+    ],
+    "explanation": "Тема «финансы и сбережения». Подобраны: Кошелёк, Монета. Кошелёк — финансы и сбережения; Монета — финансы и сбережения.",
+    "warnings": [
+      "Локальный смысловой словарь: подбор ограничен темами и предметами исходной библиотеки."
+    ]
+  },
+  {
+    "file": "03-inspiration-portrait.svg",
+    "scene": "03-inspiration-portrait.scene.json",
+    "title": "Идеи и вдохновение",
+    "prompt": "Идеи и вдохновение",
+    "mode": "metaphor",
+    "engine": "local",
+    "width": 900,
+    "height": 1200,
+    "detail": "L",
+    "paletteId": "turquoise",
+    "paletteName": "Бирюзовая",
+    "objects": 3,
+    "sourcePathsVerified": 182,
+    "svgSha256": "b9387f47901d7da1f4095009839b5028b793cf1a05e23fcb84e53cda77c9e184",
+    "sourceAssets": [
+      {
+        "assetId": "pen",
+        "name": "Ручка",
+        "role": "background",
+        "path": "/assets/pen-L-background.svg",
+        "sha256": "d81d550bbbad8075f20bdcfaced9110829afddcb7dccef9c51c5a78745ffaa15"
+      },
+      {
+        "assetId": "lamp",
+        "name": "Лампа",
+        "role": "main",
+        "path": "/assets/lamp-L-main.svg",
+        "sha256": "7f1115f20c2a9092082c559845d4399ae1b3a84349609119350446061334380d"
+      },
+      {
+        "assetId": "flowers",
+        "name": "Цветы",
+        "role": "main",
+        "path": "/assets/flowers-L-main.svg",
+        "sha256": "a4a59006f6af07ab8f4260df3b0254f0d1f11341403ea13260d27a574fa81f14"
+      }
+    ],
+    "explanation": "Тема «идеи и вдохновение». Подобраны: Лампа, Цветы, Ручка. Лампа — идеи и вдохновение; Цветы — идеи и вдохновение; Ручка — идеи и вдохновение.",
+    "warnings": [
+      "Локальный смысловой словарь: подбор ограничен темами и предметами исходной библиотеки."
+    ]
+  }
+]
