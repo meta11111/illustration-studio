@@ -3,6 +3,7 @@ import {uuid} from './scene.js';
 import {renderScene,exportScene,downloadText,displaySize,validatePalette} from './svg.js';
 import {composeScene} from './composer.js';
 import {paletteOptions,identifyImportedPalette} from './palette-options.js';
+import {changeObjectRole,resizeSceneToFormat} from './scene-operations.js';
 
 const root=document.getElementById('app');
 const formats={wide:[1200,630],square:[1000,1000],portrait:[800,1200]};
@@ -53,9 +54,9 @@ function bind(){
  root.querySelectorAll('[data-detail]').forEach(el=>el.addEventListener('click',()=>commit({...scene,detail:el.dataset.detail})));
  root.querySelectorAll('[data-palette]').forEach(el=>el.addEventListener('click',()=>commit({...scene,paletteId:el.dataset.palette})));
  root.querySelectorAll('[data-example]').forEach(el=>el.addEventListener('click',()=>{prompt=el.dataset.example;mode='metaphor';recomposition();}));
- root.querySelector('#format')?.addEventListener('change',e=>{const [width,height]=formats[e.target.value];commit({...scene,width,height,objects:scene.objects.map(o=>({...o,x:o.x*width/scene.width,y:o.y*height/scene.height}))});});
+ root.querySelector('#format')?.addEventListener('change',e=>{const [width,height]=formats[e.target.value];commit(resizeSceneToFormat(scene,width,height));});
  root.querySelector('#background')?.addEventListener('change',e=>commit({...scene,backgroundIndex:Number(e.target.value)}));
- root.querySelector('#role')?.addEventListener('change',e=>patch({role:e.target.value}));
+ root.querySelector('#role')?.addEventListener('change',e=>commit(changeObjectRole(scene,selected,e.target.value)));
  root.querySelector('#rotation')?.addEventListener('change',e=>patch({rotation:Number(e.target.value)||0}));
  root.querySelector('#palette-file')?.addEventListener('change',e=>{if(e.target.files?.[0])importPalette(e.target.files[0]);});
  root.querySelectorAll('[data-action]').forEach(el=>el.addEventListener('click',async()=>{
