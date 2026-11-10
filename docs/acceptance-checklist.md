@@ -32,9 +32,9 @@ This checklist follows the supplied Figma test assignment. A checkbox is marked 
 
 ## Delivery
 
-- [ ] Project starts according to README from a clean checkout.
+- [ ] Project starts according to README from a clean checkout. (Локальный запуск и сборка проверены, чистый checkout отдельно не проверен.)
 - [x] Tests actually run and any unavailable UI/import check is reported explicitly.
-- [ ] Repository/source archive, architecture summary and actual AI tool disclosure are present.
+- [x] Repository/source archive, architecture summary and actual AI tool disclosure are present.
 - [ ] Two or three example SVG compositions and a short working demonstration are provided. (Три SVG есть; видеодемонстрация пока не записана.)
-- [ ] Published link and access scope are verified; no API credentials are committed.
+- [x] Published link and access scope are verified; no API credentials are committed.
 
