@@ -85,7 +85,7 @@ export async function buildSceneSvg(scene,{loadAsset=loadAssetDefault,interactiv
     const title='<title>'+xml(subject.name)+'</title>';
     return '<g data-instance-id="'+xml(object.id)+'" data-asset-id="'+xml(subject.id)+'" data-role="'+role+'" transform="translate('+x+' '+y+') rotate('+rotation+') scale('+scale+')"'+(interactive?' tabindex="0" role="graphics-symbol" aria-label="'+xml(subject.name)+'"':'')+'>'+title+'<svg x="'+(-w/2)+'" y="'+(-h/2)+'" width="'+w+'" height="'+h+'" viewBox="'+xml(viewBox)+'" '+rootAttrs+'>'+root[2]+'</svg></g>';
   }));
-  return '<svg xmlns="'+SVG_NS+'" xmlns:xlink="http://www.w3.org/1999/xlink" width="'+width+'" height="'+height+'" viewBox="0 0 '+width+' '+height+'" role="img" aria-label="Векторная композиция"><title>Собрано — векторная композиция</title><desc>Композиция из исходных векторных объектов; геометрия сохранена.</desc><rect data-scene-background="true" width="'+width+'" height="'+height+'" fill="'+bg+'"/>'+chunks.join('')+'</svg>';
+  return '<svg xmlns="'+SVG_NS+'" xmlns:xlink="http://www.w3.org/1999/xlink" width="'+width+'" height="'+height+'" viewBox="0 0 '+width+' '+height+'" role="img" aria-label="Векторная композиция"><title>Векторная композиция</title><desc>Композиция из исходных векторных объектов; геометрия сохранена.</desc><rect data-scene-background="true" width="'+width+'" height="'+height+'" fill="'+bg+'"/>'+chunks.join('')+'</svg>';
 }
 export async function renderScene(scene,options={}) {
   const text=await buildSceneSvg(scene,options);

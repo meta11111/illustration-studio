@@ -27,3 +27,9 @@ body{background:#111012;color:#f7f4f1}.topbar{height:74px;background:#111012;bor
 @media(prefers-reduced-motion:reduce){.live-pulse,.art-glow,.orbital,.art-object,.art-cross,.stage-shell{animation:none!important}.art-book{transform:rotate(-13deg)}.art-puzzle{transform:rotate(18deg)}.art-lamp{transform:rotate(10deg)}}
 
 @media(max-width:500px){.hero-foot{display:none}.hero-art{top:320px}.art-tag.tag-one{top:13%}}
+
+/* Fit the complete canvas at each aspect ratio without letterboxing. */
+.canvas-zone{container-type:size}.stage-shell{width:min(100%,calc((100cqh - 25px)*1.905))}.stage-shell.format-square{width:min(100%,calc(100cqh - 25px))}.stage-shell.format-portrait{width:min(100%,calc((100cqh - 25px)*.667))}.stage-content>svg{max-height:none}
+
+@media(min-width:851px){.workbench:has(.format-square){height:830px;min-height:830px}.workbench:has(.format-portrait){height:900px;min-height:900px}}
+@media(max-width:850px){.workbench:has(.format-square),.workbench:has(.format-portrait){height:auto;min-height:0}.canvas-zone:has(.format-square){min-height:410px}.canvas-zone:has(.format-portrait){min-height:540px}}
